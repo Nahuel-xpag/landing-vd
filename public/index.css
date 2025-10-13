@@ -7,7 +7,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-     background-color: #78557c;
+    background-color: #78557c;
     height: 100vh;
 }
 
@@ -126,7 +126,7 @@ main {
     padding: 10px;
 }
 
-.testimony {
+.aviso {
     
     width: 80%;
     background-color: #E5E7EB;

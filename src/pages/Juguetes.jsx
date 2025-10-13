@@ -1,9 +1,9 @@
 import React from "react";
-import products from "../data/accesorios.json";
+import products from "../data/juguetes.json";
 
 
-export default function Accesorios() {
-const accesorios = products.accesorios || [];
+export default function Juguetes() {
+const juguetes = products.juguetes || [];
 return (
 <main className="main-wrapper">
 <div className="topheader">
@@ -14,10 +14,10 @@ return (
 </div>
 
 
-<h2 className="catalogue-underheader">Accesorios</h2>
-<div className="list accesorios">
+<h2 className="catalogue-underheader">Juguetes</h2>
+<div className="list juguetes">
 <ul>
-{accesorios.map((item, i) => (
+{juguetes.map((item, i) => (
 <li key={i} className="item">
 {item.name}
 {item.imgsrc && <img src={item.imgsrc} alt={item.name} className="list-image" />}

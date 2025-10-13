@@ -1,0 +1,144 @@
+{
+    "accesorios": [
+  {
+    "id": 26,
+    "name": "Alfombras",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\alfombras.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Bandeja sanitaria",
+    "animal": "gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\bandeja-sanitaria.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Cardinas",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\cardinas.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Colchoneta antidesgarro",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\colchonetas-antidesgarro.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Collar ahorque",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\collar-ahorque-60-cm.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Collar de cinta",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\collares-cinta.webp"
+  },
+  {
+    "id": 41,
+    "name": "Collares de gato",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\10-cat-collar.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Comedero plástico doble",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\comedero-doble.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Comedero plástico simple",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\comedero-plastico.jpeg"
+  },
+  {
+    "id": 31,
+    "name": "Conjunto",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\conjunto-chino.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Correas cadena",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\correa-cadena.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Correas cazadora",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\cazadora.jpeg"
+  },
+  {
+    "id": 27,
+    "name": "Correas cinta",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\correa-cinta.webp"
+  },
+  {
+    "id": 38,
+    "name": "Guantes de baño y peinado",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\guante-magico.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Manopla de silicona",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\manopla-silicona.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Mantas Polares",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\manta-polar.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Moises",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\moises.webp"
+  },
+  {
+    "id": 32,
+    "name": "Paño de piso",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\paño-piso.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Polares",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\polares.jpg"
+  },
+  {
+    "id": 40,
+    "name": "masajeador dispensador de shampoo",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\accesorios\\dispenser-shampoo.jpg"
+  }
+]
+}

@@ -49,6 +49,7 @@ li.slide {
     color: #78557c;
     font-size: 2em;
     font-family: raleway, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 0px;
     
 
     & h3{
@@ -68,8 +69,8 @@ li.slide {
     &[focused=true]{
         opacity: 1;
         transform: translateX(0%);
-        min-height: 500px;
-        min-width: 500px;
+        height: 500px;
+        width: 500px;
         border-radius: 12px;
         box-shadow: 0 0 0 1px 1px black;
     }

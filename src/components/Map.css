@@ -1,0 +1,26 @@
+.map-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem auto;
+}
+
+.vd {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+#map {
+  height: 400px;
+  width: 800px;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+@media screen and (max-width: 500px) {
+  #map {
+    width: 90%;
+    height: 300px;
+  }
+}

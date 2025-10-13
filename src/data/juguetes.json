@@ -1,0 +1,81 @@
+{
+    "juguetes": [
+  {
+    "id": 19,
+    "name": "Cerditos chillones",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\juguetes\\cerditos.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Chillones",
+    "animal": "perro",
+    "stock": 20,
+    "imgsrc": "\\assets\\imgs\\juguetes\\squeaky.toys.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Gallina chillona",
+    "animal": "perro",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\juguetes\\pollo-chillon.webp"
+  },
+  {
+    "id": 13,
+    "name": "Grisines de cuero",
+    "animal": "perro",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\juguetes\\grisines.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nudos chicos y grandes",
+    "animal": "perro-gato",
+    "stock": 4,
+    "imgsrc": "\\assets\\imgs\\juguetes\\nudos.webp"
+  },
+  {
+    "id": 14,
+    "name": "Orejas de cerdo",
+    "animal": "perro",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\juguetes\\orejas.png"
+  },
+  {
+    "id": 3,
+    "name": "Pelota grande",
+    "animal": "perro",
+    "stock": 10,
+    "imgsrc": "\\assets\\imgs\\juguetes\\pelota-perro-grande.webp"
+  },
+  {
+    "id": 4,
+    "name": "Pelota luz",
+    "animal": "perro y gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\juguetes\\pelota-luz.webp"
+  },
+  {
+    "id": 12,
+    "name": "Rascador",
+    "animal": "gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\juguetes\\rascador.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ratitas",
+    "animal": "gato",
+    "stock": 0,
+    "imgsrc": "\\assets\\imgs\\juguetes\\ratitas.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ratitas a cuerda",
+    "animal": "perro-gato",
+    "stock": 5,
+    "imgsrc": "\\assets\\imgs\\juguetes\\ratones-cuerda.png"
+  }
+]
+}
