@@ -1,5 +1,5 @@
 import React from "react";
-import tarjetavd from "/assets/imgs/tarjetavd.jpg";
+import tarjetavd from "/assets/imgs/tarjetavd.webp";
 
 export default function Info() {
   return (

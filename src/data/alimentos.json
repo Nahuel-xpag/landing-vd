@@ -6,7 +6,7 @@
     "name": "Arroz saborizado Lumpy",
     "weight_in_kg": "15",
     "stock": 5,
-    "imgsrc": "/assets/imgs/alimentos/lista/arroz-lumpy.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/arroz-lumpy.webp",
     "featured": true,
     "sabor": null,
     "proteina": null
@@ -17,7 +17,7 @@
     "name": "Atos adulto",
     "weight_in_kg": "20",
     "stock": 12,
-    "imgsrc": "/assets/imgs/alimentos/lista/atos-adulto.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/atos-adulto.webp",
     "featured": true,
     "sabor": null,
     "proteina": 20
@@ -28,7 +28,7 @@
     "name": "Atos cachorro",
     "weight_in_kg": "15",
     "stock": 12,
-    "imgsrc": "/assets/imgs/alimentos/lista/atos-cachorro.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/atos-cachorro.webp",
     "featured": true,
     "sabor": null,
     "proteina": 24
@@ -39,7 +39,7 @@
     "name": "Atos gato adulto",
     "weight_in_kg": "10",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/atos-gato.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/atos-gato.webp",
     "featured": true,
     "sabor": null,
     "proteina": 28
@@ -50,7 +50,7 @@
     "name": "Biopet adulto",
     "weight_in_kg": "20",
     "stock": 12,
-    "imgsrc": "/assets/imgs/alimentos/lista/biopet.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/biopet.webp",
     "featured": true,
     "sabor": null,
     "proteina": 24
@@ -61,7 +61,7 @@
     "name": "Bonelo adulto",
     "weight_in_kg": "20",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/bonelo.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/bonelo.webp",
     "featured": true,
     "sabor": null,
     "proteina": 21
@@ -72,7 +72,7 @@
     "name": "Cat Chow adulto carne y pollo",
     "weight_in_kg": "15",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/catchow-carne.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/catchow-carne.webp",
     "featured": true,
     "sabor": null,
     "proteina": 31
@@ -83,7 +83,7 @@
     "name": "Cat Chow pescado",
     "weight_in_kg": "15",
     "stock": 5,
-    "imgsrc": "/assets/imgs/alimentos/lista/Cat_Chow_Pescado_para_Gatos_Adultos.jpg.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/Cat_Chow_Pescado_para_Gatos_Adultos.jpg.webp",
     "featured": true,
     "sabor": null,
     "proteina": null
@@ -94,7 +94,7 @@
     "name": "Criadores Maintenance adulto",
     "weight_in_kg": "20",
     "stock": 12,
-    "imgsrc": "/assets/imgs/alimentos/lista/maintenance-criadores.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/maintenance-criadores.webp",
     "featured": true,
     "sabor": null,
     "proteina": 21
@@ -105,7 +105,7 @@
     "name": "Darwin adulto",
     "weight_in_kg": "15",
     "stock": 12,
-    "imgsrc": "/assets/imgs/alimentos/lista/darwin.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/darwin.webp",
     "featured": true,
     "sabor": null,
     "proteina": 18
@@ -116,7 +116,7 @@
     "name": "Dog Chow adulto",
     "weight_in_kg": "21",
     "stock": 12,
-    "imgsrc": "/assets/imgs/alimentos/lista/dogchow-adulto.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/dogchow-adulto.webp",
     "featured": true,
     "sabor": null,
     "proteina": 21
@@ -138,7 +138,7 @@
     "name": "Dog Chow cachorro",
     "weight_in_kg": "20",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/dogchow-cachorro.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/dogchow-cachorro.webp",
     "featured": true,
     "sabor": null,
     "proteina": 26
@@ -149,7 +149,7 @@
     "name": "Estampa Insignia adulto",
     "weight_in_kg": "20",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/insignia.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/insignia.webp",
     "featured": true,
     "sabor": null,
     "proteina": 30
@@ -160,7 +160,7 @@
     "name": "Estampa adulto",
     "weight_in_kg": "20",
     "stock": 12,
-    "imgsrc": "/assets/imgs/alimentos/lista/estampa-rojo.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/estampa-rojo.webp",
     "featured": true,
     "sabor": null,
     "proteina": 23
@@ -171,7 +171,7 @@
     "name": "Estampa gato adulto",
     "weight_in_kg": "15",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/estampa-gato.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/estampa-gato.webp",
     "featured": true,
     "sabor": null,
     "proteina": 30
@@ -182,7 +182,7 @@
     "name": "Estampa raza pequeña",
     "weight_in_kg": "15",
     "stock": 5,
-    "imgsrc": "/assets/imgs/alimentos/lista/estampa-rp.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/estampa-rp.webp",
     "featured": true,
     "sabor": null,
     "proteina": 26
@@ -193,7 +193,7 @@
     "name": "Excellent formula adulto",
     "weight_in_kg": "20",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/formula-exc.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/formula-exc.webp",
     "featured": true,
     "sabor": null,
     "proteina": 23
@@ -204,7 +204,7 @@
     "name": "Excellent gato adulto",
     "weight_in_kg": "15",
     "stock": 5,
-    "imgsrc": "/assets/imgs/alimentos/lista/excellent-gato.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/excellent-gato.webp",
     "featured": true,
     "sabor": null,
     "proteina": 33
@@ -237,7 +237,7 @@
     "name": "Royal Canin mini adulto",
     "weight_in_kg": "3",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/royal-mini.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/royal-mini.webp",
     "featured": true,
     "sabor": null,
     "proteina": 25
@@ -248,7 +248,7 @@
     "name": "Sabrositos adulto var.",
     "weight_in_kg": "15",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/sabrositos-variedad.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/sabrositos-variedad.webp",
     "featured": true,
     "sabor": null,
     "proteina": 21
@@ -259,7 +259,7 @@
     "name": "Sabrositos gato mix",
     "weight_in_kg": "10",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/sabrositos-gato-carne.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/sabrositos-gato-carne.webp",
     "featured": true,
     "sabor": null,
     "proteina": 30
@@ -270,7 +270,7 @@
     "name": "Sabrositos gato pescado",
     "weight_in_kg": "10",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/sabrositos-pesc.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/sabrositos-pesc.webp",
     "featured": true,
     "sabor": null,
     "proteina": 30
@@ -281,7 +281,7 @@
     "name": "Sabrositos raza pequeña",
     "weight_in_kg": "15",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/norton.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/norton.webp",
     "featured": true,
     "sabor": null,
     "proteina": 23
@@ -292,7 +292,7 @@
     "name": "Valiant adulto",
     "weight_in_kg": "20",
     "stock": 12,
-    "imgsrc": "/assets/imgs/alimentos/lista/valiant.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/valiant.webp",
     "featured": true,
     "sabor": null,
     "proteina": 21
@@ -303,7 +303,7 @@
     "name": "Voraz adulto",
     "weight_in_kg": "20",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/voraz-adulto.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/voraz-adulto.webp",
     "featured": true,
     "sabor": null,
     "proteina": 18
@@ -314,7 +314,7 @@
     "name": "Voraz cachorro",
     "weight_in_kg": "15",
     "stock": 5,
-    "imgsrc": "/assets/imgs/alimentos/lista/voraz cachorro.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/voraz cachorro.webp",
     "featured": true,
     "sabor": null,
     "proteina": 22
@@ -325,7 +325,7 @@
     "name": "Voraz gato adulto",
     "weight_in_kg": "10",
     "stock": null,
-    "imgsrc": "/assets/imgs/alimentos/lista/voraz-gato.png",
+    "imgsrc": "/assets/imgs/alimentos/lista/voraz-gato.webp",
     "featured": true,
     "sabor": null,
     "proteina": 26

@@ -6,13 +6,6 @@ export default function Accesorios() {
 const accesorios = products.accesorios || [];
 return (
 <main className="main-wrapper">
-<div className="topheader">
-<a href="/">
-<img src="/assets/imgs/pata.png" alt="paw" />
-</a>
-<h1 className="catalogue-topheader">Nuestros productos</h1>
-</div>
-
 
 <h2 className="catalogue-underheader">Accesorios</h2>
 <div className="list accesorios">

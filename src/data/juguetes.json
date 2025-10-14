@@ -5,14 +5,14 @@
     "name": "Cerditos chillones",
     "animal": "perro-gato",
     "stock": 5,
-    "imgsrc": "\\assets\\imgs\\juguetes\\cerditos.jpg"
+    "imgsrc": "\\assets\\imgs\\juguetes\\cerditos.webp"
   },
   {
     "id": 1,
     "name": "Chillones",
     "animal": "perro",
     "stock": 20,
-    "imgsrc": "\\assets\\imgs\\juguetes\\squeaky.toys.jpg"
+    "imgsrc": "\\assets\\imgs\\juguetes\\squeaky.toys.webp"
   },
   {
     "id": 11,
@@ -26,7 +26,7 @@
     "name": "Grisines de cuero",
     "animal": "perro",
     "stock": 5,
-    "imgsrc": "\\assets\\imgs\\juguetes\\grisines.jpg"
+    "imgsrc": "\\assets\\imgs\\juguetes\\grisines.webp"
   },
   {
     "id": 7,
@@ -40,7 +40,7 @@
     "name": "Orejas de cerdo",
     "animal": "perro",
     "stock": 5,
-    "imgsrc": "\\assets\\imgs\\juguetes\\orejas.png"
+    "imgsrc": "\\assets\\imgs\\juguetes\\orejas.webp"
   },
   {
     "id": 3,
@@ -61,21 +61,21 @@
     "name": "Rascador",
     "animal": "gato",
     "stock": 5,
-    "imgsrc": "\\assets\\imgs\\juguetes\\rascador.jpg"
+    "imgsrc": "\\assets\\imgs\\juguetes\\rascador.webp"
   },
   {
     "id": 6,
     "name": "Ratitas",
     "animal": "gato",
     "stock": 0,
-    "imgsrc": "\\assets\\imgs\\juguetes\\ratitas.jpg"
+    "imgsrc": "\\assets\\imgs\\juguetes\\ratitas.webp"
   },
   {
     "id": 9,
     "name": "Ratitas a cuerda",
     "animal": "perro-gato",
     "stock": 5,
-    "imgsrc": "\\assets\\imgs\\juguetes\\ratones-cuerda.png"
+    "imgsrc": "\\assets\\imgs\\juguetes\\ratones-cuerda.webp"
   }
 ]
 }
