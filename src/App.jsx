@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Accesorios from "./pages/Accesorios";
 import Alimentos from "./pages/Alimentos";
 import Juguetes from "./pages/Juguetes";
+import Buy from "./pages/Buy";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
@@ -16,6 +17,7 @@ export default function App() {
         <Route path="/accesorios" element={<Accesorios />} />
         <Route path="/alimentos" element={<Alimentos />} />
         <Route path="/juguetes" element={<Juguetes />} />
+        <Route path="/comprar" element={<Buy />} />
       </Routes>
       <Footer />
     </>

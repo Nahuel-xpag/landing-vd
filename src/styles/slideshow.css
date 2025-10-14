@@ -56,17 +56,17 @@ li.slide {
         text-align: center;
         margin: 0;
     }
-    &[next=true]{
+    &[data-next=true]{
         transform: translateX(50%);
     }
-    &[previous=true]{
+    &[data-previous=true]{
         transform: translateX(-50%);
     }
     & img {
         height: 350px;
         width: 350px;
     }
-    &[focused=true]{
+    &[data-focused=true]{
         opacity: 1;
         transform: translateX(0%);
         height: 500px;
@@ -100,7 +100,7 @@ li.slide {
             max-height: 300px;
         }
         & li.slide {
-            &[focused=true]{
+            &[data-focused=true]{
                 width: 250px;
                 height: 300px;
                 font-size: 1.5em;
