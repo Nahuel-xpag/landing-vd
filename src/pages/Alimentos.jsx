@@ -11,6 +11,7 @@ return (
 <div className="list alimentos">
 <ul>
 {alimentos.map((item, i) => (
+<div className="item-body">
 <li key={i} className="item">
 {item.name}
 {item.imgsrc && <img src={item.imgsrc} alt={item.name} className="list-image" />}
@@ -18,6 +19,13 @@ return (
 <a href="/comprar">Comprar</a>
 </button>
 </li>
+<div class="list-description">
+    <ul>
+        <li>Peso neto: {item['weight_in_kg']}kg</li>
+        {item.proteina && <li>Proteinas: {item['proteina']}%</li>}
+    </ul>
+</div>
+</div>
 ))}
 </ul>
 </div>
