@@ -10,7 +10,7 @@ export default function Home() {
             <div className="main-container">
                 <div className="underheader">
                     <div className="textarea">
-                        <p>Nos encontras en la calle 3 esquina 47 en Santa Teresita <br/>Lunes a Sábados 09hs - 13hs 16:30hs - 19:30hs</p>
+                        <p>Nos encontras en la calle 3 esquina 47 en Santa Teresita <br/>Lunes a Sábados 09hs - 13hs 17:00hs - 20:00hs</p>
                         <a href="#contacto" className="button1">Contactos</a>
                     </div>
                     <Slideshow featured={featuredItems} />
